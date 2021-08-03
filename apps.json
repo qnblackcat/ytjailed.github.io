@@ -3,6 +3,27 @@
     "identifier": "com.ytjailed",
     "apps": [
       {
+        "name": "BetterCercube+",
+        "bundleIdentifier": "com.google.ios.youtube",
+        "developerName": "Majd Alfhaily",
+        "subtitle": "Cercube for YouTube",
+        "version": "16.29.4",
+        "versionDate": "2021-07-26",
+        "versionDescription": "- Initial release\n\n For full changelog, visit https://appdb.to/app/cydia/1900000823",
+        "downloadURL": "https://raw.githubusercontent.com/ytjailed/ytjailed.github.io/main/resources/BetterCercube/BetterCercube-16-29-4.ipa",
+        "localizedDescription": "Cercube not only gives you the features that are missing from YouTube, but it also gives you full control over the app.",
+        "iconURL": "https://raw.githubusercontent.com/ytjailed/ytjailed.github.io/main/resources/BetterCercube/icon.png",
+        "tintColor": "000000",
+        "size": 116718097,
+        "screenshotURLs": [
+          "https://apt.alfhaily.me/cdn/assets/cercube-screenshot1.jpg",
+          "https://apt.alfhaily.me/cdn/assets/cercube-screenshot2.jpg",
+          "https://apt.alfhaily.me/cdn/assets/cercube-screenshot3.jpg",
+          "https://apt.alfhaily.me/cdn/assets/cercube-screenshot4.jpg",
+          "https://apt.alfhaily.me/cdn/assets/cercube-screenshot5.jpg"
+        ]
+      },
+      {
         "name": "uYou+",
         "bundleIdentifier": "com.google.ios.youtube",
         "developerName": "MiRo92",
