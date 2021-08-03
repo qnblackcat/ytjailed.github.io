@@ -18,8 +18,7 @@ Tweaks Injected:
 | [YTUHD](https://github.com/PoomSmart/YTUHD) | 1.1.2 |
 | [YTNoHoverCards](https://github.com/level3tjg/YTNoHoverCards) | 0.0.3 |
 | [YTNoShorts](https://miro92.com/repo/depictions/?p=com.miro.ytnoshorts) | 1.0.1 |
-
-
+  
 ### uYou+
 YouTube Version: 16.30.2<br/>
 Tweaks Injected:
@@ -34,8 +33,7 @@ Tweaks Injected:
 | YTSystemAppearance | 1.0.0 |
 | [YTUHD](https://github.com/PoomSmart/YTUHD) | 1.2.0 |
 | [YTNoHoverCards](https://github.com/level3tjg/YTNoHoverCards) | 0.0.3 |
-
-
+  
 ### Credits
 [Majd Alfhaily](https://github.com/majd)<br/>
 [MiRo92](https://github.com/MiRO92)<br/>
