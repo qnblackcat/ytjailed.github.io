@@ -1,5 +1,4 @@
-### Add the source
-[![Add](https://img.shields.io/badge/AltStore-Add%20Repo-brightgreen)](altstore://source?URL=https://raw.githubusercontent.com/ytjailed/ytjailed.github.io/main/apps.json)
+[![Add](https://img.shields.io/badge/AltStore-Add%20This%20Source-brightgreen)](altstore://source?URL=https://raw.githubusercontent.com/ytjailed/ytjailed.github.io/main/apps.json)
 
 `https://raw.githubusercontent.com/ytjailed/ytjailed.github.io/main/apps.json`
 
@@ -7,22 +6,22 @@
 Work-in-progress
 
 ### uYou+
-YouTube Version: 16.30.2
+YouTube Version: 16.30.2<br/>
+Tweaks Injected:
 
-Tweaks included:
+| Tweak | Version |
+| :--- | :---: |
+| [uYou](https://miro92.com/repo/depictions/?p=com.miro.uyou) | 1.1 |
+| [YTStockShare](https://github.com/iCrazeiOS/YTStockShare) | 1.3 |
+| [YouAreThere](https://github.com/PoomSmart/YouAreThere) | 1.0.1 |
+| [YouPiP](https://github.com/PoomSmart/YouPiP) | 1.5.7 |
+| [YTClassicVideoQualitySelector](https://github.com/PoomSmart/YTClassicVideoQuality) | 1.0.1 |
+| YTSystemAppearance | 1.0.0 |
+| [YTUHD](https://github.com/PoomSmart/YTUHD) | 1.2.0 |
+| [YTNoHoverCards](https://github.com/level3tjg/YTNoHoverCards) | 0.0.3 |
 
-From [MiRo92](https://github.com/MiRO92):
-- uYou 1.1
-
-From [iCrazeiOS](https://github.com/iCrazeiOS):
-- YTStockShare 1.3
-
-From [PoomSmart](https://github.com/PoomSmart):
-- YouAreThere 1.0.1
-- YouPiP 1.5.7
-- YTClassicVideoQualitySelector 1.0.1
-- YTSystemAppearance 1.0.0
-- YTUHD 1.2.0
-
-From [level3tjg](https://github.com/level3tjg):
-- YTNoHoverCards 0.0.3
+### Credits
+[MiRo92](https://github.com/MiRO92)<br/>
+[iCrazeiOS](https://github.com/iCrazeiOS)<br/>
+[PoomSmart](https://github.com/PoomSmart)<br/>
+[level3tjg](https://github.com/level3tjg)
