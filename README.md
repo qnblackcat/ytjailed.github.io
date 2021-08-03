@@ -1,7 +1,6 @@
 # An AltStore repo for tweaked YouTube
-[Install](altstore://source?URL=https://raw.githubusercontent.com/ytjailed/ytjailed.github.io/main/apps.json){: .btn } the source now!
+[![Add](https://img.shields.io/badge/AltStore-Add%20Repo-brightgreen)](altstore://source?URL=https://raw.githubusercontent.com/ytjailed/ytjailed.github.io/main/apps.json)
 
-Or copy it manually:
 `https://raw.githubusercontent.com/ytjailed/ytjailed.github.io/main/apps.json`
 
 ### BetterCercube
